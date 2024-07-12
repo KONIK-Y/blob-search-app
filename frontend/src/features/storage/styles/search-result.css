@@ -1,0 +1,10 @@
+.search-result {
+  font-size: 16px;
+}
+
+.search-result code {
+  color: white;
+  font-weight: bold;
+  background: blueviolet;
+  padding: 2px 6px;
+}
